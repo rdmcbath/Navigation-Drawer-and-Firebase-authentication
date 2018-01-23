@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="My Info">
+        <menu>
+            <item
+                android:id="@+id/nav_dashboard"
+                android:icon="@drawable/ic_menu_lightbulb"
+                android:title="Dashboard" />
+            <item
+                android:id="@+id/nav_saved"
+                android:icon="@drawable/ic_menu_saved"
+                android:title="Saved Courses" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Settings" />
+        </menu>
+    </item>
+
+    <item android:title="Learn">
+        <menu>
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/ic_menu_book"
+            android:title="Search Library" />
+
+        <item
+            android:id="@+id/nav_nuggets"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Nuggets" />
+        <item
+            android:id="@+id/nav_quizzes"
+            android:icon="@drawable/ic_menu_puzzle"
+            android:title="Quizzes" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/ic_menu_notes"
+            android:title="Notes" />
+        </menu>
+    </item>
+</menu>

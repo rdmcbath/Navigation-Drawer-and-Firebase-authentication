@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FunWithLinuxAcademy</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Firebase SignOut -->
+    <string name="action_sign_out">Sign Out</string>
+    <string name="saved">Saved Content</string>
+    <string name="dashboard">My Dashboard</string>
+    <string name="library">Library</string>
+    <string name="nuggets">Nuggets</string>
+    <string name="quiz">Quiz</string>
+    <string name="notes">Notes</string>
+    <string name="student_profile_name">Student Profile Name</string>
+    <string name="android_studio_android_com">android.studio@android.com</string>
+    <string name="action_search">Search</string>
+    <string name="search_intent_query" translatable="false">Query</string>
+
+
+</resources>

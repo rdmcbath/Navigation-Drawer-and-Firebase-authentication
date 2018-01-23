@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saved">Saved Content</string>
+    <string name="dashboard">My Dashboard</string>
+    <string name="nuggets">Nuggets</string>
+</resources>

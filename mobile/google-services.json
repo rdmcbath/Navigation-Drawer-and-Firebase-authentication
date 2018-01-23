@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1025612490753",
+    "firebase_url": "https://funwithlinuxacademy.firebaseio.com",
+    "project_id": "funwithlinuxacademy",
+    "storage_bucket": "funwithlinuxacademy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025612490753:android:e09aca49c02450b1",
+        "android_client_info": {
+          "package_name": "com.rdm.funwithlinuxacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025612490753-49u5d90e235qsm2pdp2fjjiuoj8901ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkqFOhHKJv8Kke4UDutZ3pGk_r0iLkUqA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
